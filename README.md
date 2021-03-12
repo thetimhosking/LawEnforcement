@@ -24,3 +24,11 @@ The application domains are:
 3. Investigation Management
 4. Intelligence Gathering
 5. Legal Process
+
+## Delivery
+The intention is to deliver these microservices in Golang because:
+1. It is fast
+1. It runs on many platforms
+1. Provides many libraries
+1. Is simple to use
+
