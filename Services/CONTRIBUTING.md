@@ -1,9 +1,12 @@
 # How to contribute
 
-## Format
+
+## Use Cases
+
+### Format
 
 
-## Granularity
+### Granularity
 Please do not contribute use cases that are at the "CRUD" level. Any at that level of granularity will be rejected.
 
 A use case should offer business value to the user and as such should be more meaningful than "Add Person", or "Update Address". A 
